@@ -15,7 +15,7 @@
   "bugs": {
     "url": "https://github.com/claudiopatzlaff/QA01/issues"
   },
-  "homepage": "https://github.com/claudiopatzlaff/QA01#readme"
+  "homepage": "https://github.com/claudiopatzlaff/QA01#readme",
 
   "dependencies": {
     "tap-spec": "^5.0.0",
