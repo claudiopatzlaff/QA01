@@ -1,0 +1,24 @@
+{
+  "name": "qa01",
+  "version": "1.0.0",
+  "description": "",
+  "main": "teste.js",
+  "scripts": {
+    "test": "node index.test | tap-spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/claudiopatzlaff/QA01.git"
+  },
+  "author": "Claudio Patzlaff",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/claudiopatzlaff/QA01/issues"
+  },
+  "homepage": "https://github.com/claudiopatzlaff/QA01#readme"
+
+  "dependencies": {
+    "tap-spec": "^5.0.0",
+    "tape": "^5.5.3"
+  }
+}
